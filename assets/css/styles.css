@@ -122,6 +122,10 @@ body {
   
 }
 
+.carta__imagem{
+  width: 100%;
+}
+
 .cartao__conteudo{
   padding: 16px;
   display: grid;
